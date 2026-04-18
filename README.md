@@ -63,5 +63,5 @@ El jugador controla una nave espacial que debe eliminar oleadas de enemigos mien
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/space-invaders.git
-cd space-invaders
+git clone https://github.com/isairey/SpaceInvaders.git
+cd SpaceInvaders
